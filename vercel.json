@@ -12,15 +12,15 @@
       "dest": "/chap13.html"
     },
     {
-      "src": "/tor1.png",
+      "src": "/public/tor1.png",
       "dest": "/public/tor1.png"
     },
     {
-      "src": "/tor2.png",
+      "src": "/public/tor2.png",
       "dest": "/public/tor2.png"
     },
     {
-      "src": "/tor3.png",
+      "src": "/public/tor3.png",
       "dest": "/public/tor3.png"
     }
   ]
