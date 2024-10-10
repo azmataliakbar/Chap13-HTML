@@ -1,11 +1,5 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "chap13.html",
-      "use": "@vercel/static"
-    }
-  ],
   "routes": [
     {
       "src": "/tor1.png",
