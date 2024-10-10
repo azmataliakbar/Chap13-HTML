@@ -3,15 +3,15 @@
   "routes": [
     {
       "src": "/tor1.png",
-      "dest": "/tor1.png"
+      "dest": "/chap_13/public/tor1.png"
     },
     {
       "src": "/tor2.png",
-      "dest": "/tor2.png"
+      "dest": "/chap_13/public/tor2.png"
     },
     {
       "src": "/tor3.png",
-      "dest": "/tor3.png"
+      "dest": "/chap_13/public/tor3.png"
     },
     {
       "src": "/(.*)",
@@ -19,6 +19,7 @@
     }
   ]
 }
+
 
 
 
