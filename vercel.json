@@ -8,16 +8,8 @@
   ],
   "routes": [
     {
-      "src": "/public/tor1.png",
-      "dest": "/public/tor1.png"
-    },
-    {
-      "src": "/public/tor2.png",
-      "dest": "/public/tor2.png"
-    },
-    {
-      "src": "/public/tor3.png",
-      "dest": "/public/tor3.png"
+      "src": "/public/(.*)",
+      "dest": "/public/$1"
     },
     {
       "src": "/(.*)",
@@ -25,3 +17,4 @@
     }
   ]
 }
+
