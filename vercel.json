@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/public/tor1.png"
+      "dest": "/chap13.html"
     }
   ]
 }
