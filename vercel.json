@@ -8,7 +8,7 @@
   ],
   "routes": [
     {
-      "src": "/",
+      "src": "/(.*)",
       "dest": "/chap13.html"
     }
   ]
