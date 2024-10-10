@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "chap13.html"
+      "dest": "/chap13.html"
     }
   ]
 }
