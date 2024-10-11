@@ -2,14 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "chap_13/chap13.html",
+      "src": "chap_13/index.html",
       "use": "@vercel/static"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "chap_13/chap13.html"
+      "dest": "chap_13/index.html"
     }
   ]
 }
