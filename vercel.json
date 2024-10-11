@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "/chap13.html",
-      "dest": "@vercel/static"
+      "use": "@vercel/static"
     },
   
     {
@@ -19,7 +19,7 @@
 
     {
       "src":"/public/tor2.png",
-      "dest": "tor1.png"
+      "dest": "tor2.png"
       
     },
 
